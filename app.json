@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "auth-app",
+    "slug": "snack-699bd12a-f410-4701-99f3-23f0cbd3488c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rvdev.auth"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Boilerplate with auth",
+    "extra": {
+      "eas": {
+        "projectId": "faf86d84-aa69-4ad2-aef3-ad704161ebf3"
+      }
+    }
+  }
+}
